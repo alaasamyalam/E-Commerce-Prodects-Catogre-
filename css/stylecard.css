@@ -1,0 +1,26 @@
+
+img{
+    border-radius: 30px
+}
+table{
+    font-size: 30px;
+    text-align: center;
+}
+#main table th {
+    padding: 10px;
+    background-color: #48577D;
+    color: #fff;
+    text-align: center;
+}
+
+#main table td {
+    padding: 5px;
+    border-radius: 40px;
+    color: #00f;
+}
+#main table tr {
+    background-color: #d3dcf2;
+}
+#main table th{
+    border-radius: 40px;
+}

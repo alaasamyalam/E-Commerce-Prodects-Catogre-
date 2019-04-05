@@ -1,0 +1,14 @@
+div{
+    font-size: 40px;
+    color: green;
+}
+input,select{
+    font-size: 30px;
+    margin: 0px 0px 0px 50px;
+    text-align: center;
+}
+table,th,td{
+    border-radius: 30px;
+    border-color:red;
+
+}
